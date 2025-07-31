@@ -1,15 +1,15 @@
 var fruits = ['apple', 'banana', 'orange'];
-console.log(fruits);
+// console.log(fruits);
 
 var bananaIndex = fruits.indexOf('banana');
-console.log(bananaIndex);
+// console.log(bananaIndex);
 
-// fruits[1] = 'mango'
 fruits[bananaIndex] = 'mango'
-console.log(fruits);
+// console.log(fruits);
 
 fruits.pop();
-console.log(fruits);
+// console.log(fruits);
 
 fruits.push('watermelon');
+
 console.log(fruits);

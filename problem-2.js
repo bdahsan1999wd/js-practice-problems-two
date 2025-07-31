@@ -3,7 +3,8 @@ var tomScore = 66;
 var janeScore = 95;
 var peterScore = 56;
 var johnScore = 40;
-// -------------------------My Score-------------------------
+
+// --------------------My Score--------------------
 if (myScore >= 80) {
     console.log('My grade is A');
 }
@@ -19,7 +20,8 @@ else if (myScore >= 40) {
 else {
     console.log('My grade is F')
 }
-// -------------------------Tom Score-------------------------
+
+// --------------------Tom Score--------------------
 if (tomScore >= 80) {
     console.log('tom grade is A');
 }
@@ -35,7 +37,8 @@ else if (tomScore >= 40) {
 else {
     console.log('tom grade is F')
 }
-// ---------------------------Jane Score-------------------------
+
+// --------------------Jane Score--------------------
 if (janeScore >= 80) {
     console.log('jane grade is A');
 }
@@ -51,7 +54,8 @@ else if (janeScore >= 40) {
 else {
     console.log('jane grade is F')
 }
-// --------------------------Peter Score-------------------------
+
+// --------------------Peter Score--------------------
 if (peterScore >= 80) {
     console.log('peter grade is A');
 }
@@ -67,7 +71,8 @@ else if (peterScore >= 40) {
 else {
     console.log('peter grade is F')
 }
-// -------------------------John Score-------------------------
+
+// --------------------John Score--------------------
 if (johnScore >= 80) {
     console.log('john grade is A');
 }
